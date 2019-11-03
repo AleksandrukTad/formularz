@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import "./App.css";
+import './styles/TextField/index.css';
+import './styles/Form/index.css';
+import './styles/Button/index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 

@@ -1,0 +1,22 @@
+.TextField {
+  display: flex;
+  flex-flow: column;
+  margin-bottom: 2rem;
+}
+
+.TextField_label {
+  text-align: left;
+  color: #323232;
+  margin-bottom: 1rem;
+}
+
+.TextField_input {
+  border: 1px solid #AAA7A7;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.TextField_error {
+  margin: 1rem 0;
+  color: #CF0000;
+}

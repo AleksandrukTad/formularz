@@ -1,0 +1,19 @@
+.Button {
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  border: none;
+  background-color: white;
+  font-size: 1rem;
+}
+
+.Button-success {
+  background-color: #47CC7C;
+  color: white;
+  min-width: 10rem;
+}
+
+.Button-cancel {
+  min-width: 7rem;
+  border: solid 1px #AAA7A7;
+  color: #323232;
+}
